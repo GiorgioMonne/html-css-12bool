@@ -1,0 +1,13 @@
+
+.box{
+    min-height: 20px;
+    background-color: pink;
+    border: 1px solid black;
+}
+
+.box-nested{
+    min-height: 20px;
+    background-color: pink;
+    border: 1px solid black;
+}
+
